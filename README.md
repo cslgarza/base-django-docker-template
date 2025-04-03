@@ -1,2 +1,2 @@
-# base-django-docker-template
-This is a basic template for deploying a Django application locally with Docker
+# django-to-aws-template
+This repo is a template for deploying Django Web Apps to AWS.
